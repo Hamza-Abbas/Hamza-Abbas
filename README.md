@@ -20,9 +20,8 @@ SQL · Python · dbt · Databricks · Snowflake · AWS · Power BI
 Building reliable data platforms using modern ELT, cloud warehouses,
 Medallion Architecture and automated data-quality testing.
 
-## Connect
+## Connect with me
 
-[LinkedIn](https://www.linkedin.com/in/hamza-abbas-data-engineer/) ·
-[GitHub](https://github.com/Hamza-Abbas) ·
-[Email](hamzaabbas2490@gmail.com) ·
+💼 [LinkedIn](https://www.linkedin.com/in/hamza-abbas-data-engineer/)  
+📧 [hamzaabbas2490@gmail.com](mailto:hamzaabbas2490@gmail.com)  
 📍 Berlin, Germany
