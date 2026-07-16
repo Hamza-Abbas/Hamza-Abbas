@@ -21,4 +21,8 @@ Building reliable data platforms using modern ELT, cloud warehouses,
 Medallion Architecture and automated data-quality testing.
 
 ## Connect
-LinkedIn · Email · Germany
+
+[LinkedIn](https://www.linkedin.com/in/hamza-abbas-data-engineer/) ·
+[GitHub](https://github.com/Hamza-Abbas) ·
+[Email](mailto:hamzaabbas2490@gmail.com) ·
+📍 Berlin, Germany
