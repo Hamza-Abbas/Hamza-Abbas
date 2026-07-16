@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Hamza Abbas
 
-<!--
-**Hamza-Abbas/Hamza-Abbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Engineer with 1.5+ years of experience building ETL pipelines
+and SQL-based analytics solutions for banking environments.
 
-Here are some ideas to get you started:
+## Tech Stack
+SQL · Python · dbt · Databricks · Snowflake · AWS · Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- German Airbnb Analytics Pipeline
+- ETF Market Intelligence Pipeline
+- SQL Server Data Warehouse
+
+## Professional Background
+- Built daily ETL pipelines for banking clients
+- Developed SQL-based detection and validation rules
+- Experienced with data quality, deduplication and analytics-ready modelling
+
+## Current Focus
+Building reliable data platforms using modern ELT, cloud warehouses,
+Medallion Architecture and automated data-quality testing.
+
+## Connect
+LinkedIn · Email · Germany
