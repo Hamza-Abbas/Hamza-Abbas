@@ -12,7 +12,7 @@ SQL · Python · dbt · Databricks · Snowflake · AWS · Power BI
 - SQL Server Data Warehouse
 
 ## Professional Background
-- Built daily ETL pipelines for banking clients
+- Built and automated ETL pipelines for banking clients
 - Developed SQL-based detection and validation rules
 - Experienced with data quality, deduplication and analytics-ready modelling
 
