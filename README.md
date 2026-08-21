@@ -4,7 +4,7 @@ Data Engineer with 1.5+ years of experience building scalable ETL pipelines
 and SQL-based analytics solutions.
 
 ## Tech Stack
-SQL · Python · dbt · Databricks · Snowflake · AWS · Power BI
+SQL · Python · dbt · Databricks · Snowflake · AWS · Power BI · PySpark
 
 ## Featured Projects
 - German Airbnb Analytics Pipeline
