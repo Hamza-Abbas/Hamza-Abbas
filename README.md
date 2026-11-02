@@ -24,4 +24,4 @@ Medallion Architecture and automated data-quality testing.
 
 💼 [LinkedIn](https://www.linkedin.com/in/hamza-abbas-data-engineer/)  
 📧 [hamzaabbas2490@gmail.com](mailto:hamzaabbas2490@gmail.com)  
-📍 Berlin, Germany
+📍 Rostock, Germany
